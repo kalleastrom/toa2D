@@ -1,5 +1,5 @@
-function [Rc,Sc]=toa_2D_33_v5(d)
-% [Rc,Sc]=toa_2D_33_v4(d)
+function [Rc,Sc]=toa_2D_33(d)
+% [Rc,Sc]=toa_2D_33(d)
 % Calculate possible placements of receivers R and senders S
 % in the plane so that the distance between R(:,i) and S(:,j) is d(i,j)
 % Input: 
